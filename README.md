@@ -27,7 +27,8 @@ T-Academy is a comprehensive bootcamp that prepares me for various areas of tech
 
 ## Acknowledgements
 
-### <a href="https://github.com/thealexcesar/T-Academy/tree/main/java/src/oop" id="module-01">Module 01 – Object-Oriented Programming</a></h3>
+[//]: # (### <a href="https://github.com/thealexcesar/T-Academy/tree/main/java/src/oop" id="module-01">Module 01 – Object-Oriented Programming</a></h3>)
+### <a href="#" id="module-01">Module 01 – Object-Oriented Programming</a></h3>
 
 <details><summary>Content</summary>
 
@@ -192,7 +193,8 @@ T-Academy is a comprehensive bootcamp that prepares me for various areas of tech
 ### [Module 03 – Agile Methodologies](#module-03---agile-methodologies)
 [//]: # (TODO)
 
-### <a href="#module-04" id="module-04">Module 04 – Advanced Java</a>
+[//]: # (### <a href="#module-04" id="module-04">Module 04 – Advanced Java</a>)
+### <a href="#" id="module-04">Module 04 – Advanced Java</a>
 
 <details><summary>Content</summary>
 
@@ -272,7 +274,8 @@ T-Academy is a comprehensive bootcamp that prepares me for various areas of tech
 
 [//]: # (TODO)
 
-### <a href="https://github.com/thealexcesar/T-Academy/tree/main/spring-boot" id="module-09">Module – Spring Boot</a>
+[//]: # (### <a href="https://github.com/thealexcesar/T-Academy/tree/main/spring-boot" id="module-09">Module – Spring Boot</a>)
+### <a href="#" id="module-09">Module – Spring Boot</a>
 
 <details><summary>Content</summary>
 
