@@ -7,15 +7,15 @@ This is my dedicated space for documenting my learning journey through the T-Aca
 T-Academy is a comprehensive bootcamp that prepares me for various areas of technology, providing a solid foundation for future opportunities within T-Systems.
 
 ### Table of Content
-| Module                                                    | Hours                                         |
+| Hours                                         |
 |-----------------------------------------------------------|-----------------------------------------------|
-| [Module 01 – Object-Oriented Programming](#module-01)     | 38.5 hours                                    |
-| [Module 02 – Version Control](#module-02)                 | 7 hours                                       |
-| [Module 03 – Agile Methodologies](#module-03)             | 3.5 hours                                     |
-| [Module 04 – Advanced Java](#module-04)                   | 21 hours                                      |
-| [Module 05 – Relational Database](#module-05)             | 21 hours                                      |
-| [Module 06 – TypeScript](#module-06)                      | 3.5 hours                                     |
-| [Module 07 – Angular](#module-07)                         | 52.5 hours                                    |
+| [– Object-Oriented Programming](#module-01)     | 38.5 hours                                    |
+| [– Version Control](#module-02)                 | 7 hours                                       |
+| [– Agile Methodologies](#module-03)             | 3.5 hours                                     |
+| [– Advanced Java](#module-04)                   | 21 hours                                      |
+| [– Relational Database](#module-05)             | 21 hours                                      |
+| [– TypeScript](#module-06)                      | 3.5 hours                                     |
+| [– Angular](#module-07)                         | 52.5 hours                                    |
 | [Module 08 – Java EE](#module-08)                         | 42 hours                                      |
 | [Module 09 – Spring Boot](#module-09)                     | 42 hours                                      |
 | [Module 10 – Introduction to DevOps](#module-10)          | 7 hours                                       |
@@ -27,34 +27,34 @@ T-Academy is a comprehensive bootcamp that prepares me for various areas of tech
 
 ## Acknowledgements
 
-### <a href="https://github.com/thealexcesar/T-Academy/tree/main/java/src/oop" id="module-01">Module 01 – Object-Oriented Programming</a></h3>
+### <a href="https://github.com/thealexcesar/T-Academy/tree/main/java/src/oop" id="module-01">Object-Oriented Programming</a></h3>
 
-[//]: # (### [Module 02 – Version Control]&#40;#module-02&#41;)
-[//]: # (### [Module 03 – Agile Methodologies]&#40;#module-03---agile-methodologies&#41;)
+[//]: # (### [Version Control]&#40;#module-02&#41;)
+[//]: # (### [Agile Methodologies]&#40;#module-03---agile-methodologies&#41;)
 
-### <a href="#module-04" id="module-04">Module 04 – Advanced Java</a>
+### <a href="#module-04" id="module-04">– Advanced Java</a>
 
-### <a href="#" id="module-04">Module 04 – Advanced Java</a>
+### <a href="#" id="module-04">– Advanced Java</a>
 
 ### <a href="https://github.com/thealexcesar/database">Database</a>
 
-### [Module 06 – TypeScript](#module-06---typescript)
+### [TypeScript](#module-06---typescript)
 
-### [Module 07 – Angular](#module-07---angular)
+### [Angular](#module-07---angular)
 
-[//]: # (### [Module 08 – Java EE]&#40;#module-08---java-ee&#41;)
+[//]: # (### [Java EE]&#40;#module-08---java-ee&#41;)
 
-### <a href="https://github.com/thealexcesar/T-Academy/tree/main/spring-boot" id="module-09">Module – Spring Boot</a>
+### <a href="https://github.com/thealexcesar/T-Academy/tree/main/spring-boot" id="module-09">Spring Boot</a>
 
-### [Module 10 – Introduction to DevOps](#module-10---introduction-to-devops)
+### [Introduction to DevOps](#module-10---introduction-to-devops)
 
-### [Module 11 – Fundamentals of Cloud Computing](#module-11---fundamentals-of-cloud-computing)
+### [Fundamentals of Cloud Computing](#module-11---fundamentals-of-cloud-computing)
 
-### [Module 12 – Docker](#module-12---docker)
+### [Docker](#module-12---docker)
 
-### [Module 13 – Design Patterns and DDD](#module-13---design-patterns-and-ddd)
+### [Design Patterns and DDD](#module-13---design-patterns-and-ddd)
 
-### [Module 14 – Microservices](#module-14---microservices)
+### [Microservices](#module-14---microservices)
 
 ### [Project Presentations](#project-presentations)
 
