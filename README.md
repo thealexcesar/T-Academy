@@ -23,6 +23,13 @@ T-Academy is a comprehensive bootcamp that prepares me for various areas of tech
 
 ### <a href="https://github.com/thealexcesar/spring">Spring Boot</a>
 
+<details>
+<summary>Projects</summary>
+
+  - [Book Library](https://github.com/thealexcesar/book-library)
+
+</details>
+
 ---
 
 I extend my deepest gratitude to [ProWay](https://www.proway.com.br) and [T-Systems](https://www.t-systems.com) for providing me with this incredible learning opportunity through the
